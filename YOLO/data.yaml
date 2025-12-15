@@ -1,0 +1,5 @@
+train: C:\Users\papil\YOLO\YOLO\train
+val: C:\Users\papil\YOLO\YOLO\valid
+
+nc: 12
+names: ['acacia', 'acacia_log', 'birch', 'birch_log', 'dark_oak', 'dark_oak_log', 'jungle', 'jungle_log', 'oak', 'oak_log', 'spruce', 'spruce_log']
